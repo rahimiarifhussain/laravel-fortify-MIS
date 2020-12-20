@@ -1,0 +1,3 @@
+# laravel-fortify-MIS
+git clone ....
+php artisan serve
